@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>market_garden_ibbenbueren</name>
+  <version>0.0.1</version>
+  <description>The market_garden_ibbenbueren package</description>
+  <maintainer email="spuetz@uos.de">Sebastian Pütz</maintainer>
+  <license>BSD-3</license>
+  <author email="spuetz@uos.de">Sebastian Pütz</author>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
